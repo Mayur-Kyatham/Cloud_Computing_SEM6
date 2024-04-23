@@ -4,10 +4,12 @@ Joomla is a free and open-source content management system (CMS) for publishing
 web content on websites. It helps you build powerful dynamic websites and 
 applications. It has an intuitive interface that helps you use its features and 
 functionality to the fullest. We have made a simple website on JOOMLA. 
+
 Cloud Services Used: 
 1. Elastic Beanstalk 
 2. RDS 
 3. EC2 
+
 We have used Elastic Beanstalk. With Elastic Beanstalk, you can quickly deploy, 
 manage, and scale applications without the operational burden of managing 
 infrastructure. Elastic Beanstalk reduces management complexity for web 
